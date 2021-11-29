@@ -1,4 +1,4 @@
-//shows working path
+//shows node.exe and working path to file
 //console.log(process.argv);
 
 //create empty array called movieArr
