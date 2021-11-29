@@ -4,7 +4,7 @@
 //create empty array called movieArr
 const movieArr = [];
 
-//create class Movie with common properties. Add(push) Objects to movieArr using .push and this
+//create class Movie with common properties. Add(push) Objects to movieArr using .push and thi. 'this.' will add all values with 'this.'
 class Movie {
     constructor(title, actor, director) {
         this.title = title;
